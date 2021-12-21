@@ -26,10 +26,12 @@ most online shorppers only provide bare minimum of information needed when signi
 
 ### Stage 2: 
 Data preprocessing and cleaning (two columns are intentionally corrupted, to be identified and fixed)
+* detail of the process is within the code
 
 ### Stage 3: 
 BUILD - Building a model to predict the gender using the features provided and engineered 
 * there is no gender flag --> unsupervised learning
+* detail of the process is within the code
 
 ### Stage 4: 
 Documentating the process, findings and code into a reproducible document that can be understood by a business user and answers:
@@ -39,4 +41,4 @@ Documentating the process, findings and code into a reproducible document that c
 * What other features and variables can you think of, that can make this process more robust? Can you make a recommendation of top 5 features you'd seek to find apart from the ones given here
 * Summarize your findings in an executive summary
 
-* A repo of the code branch is available at:
+* A pdf version of the report is attached in this repo.
